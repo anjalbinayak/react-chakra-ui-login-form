@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-chakra-ui-login-form/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-chakra-ui-login-form/static/js/main.0d2a3fc4.chunk.js",
+    "main.js.map": "/react-chakra-ui-login-form/static/js/main.0d2a3fc4.chunk.js.map",
+    "runtime-main.js": "/react-chakra-ui-login-form/static/js/runtime-main.5a24e049.js",
+    "runtime-main.js.map": "/react-chakra-ui-login-form/static/js/runtime-main.5a24e049.js.map",
+    "static/js/2.021d6363.chunk.js": "/react-chakra-ui-login-form/static/js/2.021d6363.chunk.js",
+    "static/js/2.021d6363.chunk.js.map": "/react-chakra-ui-login-form/static/js/2.021d6363.chunk.js.map",
+    "index.html": "/react-chakra-ui-login-form/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-chakra-ui-login-form/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.021d6363.chunk.js.LICENSE.txt": "/react-chakra-ui-login-form/static/js/2.021d6363.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a24e049.js",
+    "static/js/2.021d6363.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0d2a3fc4.chunk.js"
+  ]
+}
